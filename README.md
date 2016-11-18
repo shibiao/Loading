@@ -10,5 +10,4 @@
 ####停止动画
 `
 [self.imageView stop];
-
 `
